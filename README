@@ -1,0 +1,53 @@
+The Ball Touch Game 
+-manu <manu.skc@gmail.com>
+
+0) Origin of this game
+1) Conditions
+2) Game
+3) ToDo
+4) Contact
+
+
+0) Origin
+The theam of the game is not my original idea 
+I had played a similar game game called "Squares"
+which is same as this game which had squares instead of circles
+
+1) Conditions
+This Game is licensec under GNU's GPL
+you should have recieved a copy of GNU's GPL
+with this package , if not just google "GNU GPL"
+and download a copy of it.
+
+In addition to terms and condition in GPL
+you have the following conditions , in case of any
+ambiguities the following conditions get higher priority.
+
+a) Do Not edit README file
+b) Submit all bugs and Patches if any at my e-mail id
+
+
+2) Game
+The aim of the game is to collect all the 
+green balls avoiding contact with red balls.
+The pawn ball is controlled by user using mouse interface.
+The pawn ball size increases as you start collecting more 
+and more green balls making the game diffucult.
+
+
+3) ToDo
+Need to add speacial power balls like:
+a) taking that ball reduces size of pawn
+b) get 100+ points
+c) One life more
+d) We can add ball which causes negetive effects also
+e) any more ideas are welcome
+
+
+4) Contact
+All your valuable suggestions regarding improvement 
+of game are welcome .
+contact me at
+manu.skc@gmail.com    use subject::Ball-Touch(<title>)
+to know more about me visit
+www.manuskc.co.cc
