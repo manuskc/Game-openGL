@@ -14,18 +14,9 @@ I had played a similar game game called "Squares"
 which is same as this game which had squares instead of circles
 
 1) Conditions
-This Game is licensec under GNU's GPL
-you should have recieved a copy of GNU's GPL
-with this package , if not just google "GNU GPL"
-and download a copy of it.
-
-In addition to terms and condition in GPL
-you have the following conditions , in case of any
-ambiguities the following conditions get higher priority.
-
-a) Do Not edit README file
-b) Submit all bugs and Patches if any at my e-mail id
-
+This game is free to use / modify and re-distribute
+I take no responsibility of any harm caused by this piece of code, if so!
+This was built while i was learnign openGL, and is far from perfect, you might expect bugs.
 
 2) Game
 The aim of the game is to collect all the 
